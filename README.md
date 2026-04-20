@@ -18,7 +18,7 @@ Java\
 Spring Boot\
 Spring Data JPA\
 REST APIs\
-SQL (MySQL, H2)\
+SQL (PostgreSQL, H2)\
 JUnit & Mockito\
 Git, Postman
 
